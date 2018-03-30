@@ -1,0 +1,35 @@
+.content{
+display: flex;
+flex-direction: row;
+
+}
+
+.content-info{
+width: 70%; <!-- Контейнер главный -->
+}
+.content-cart{
+width: 30%;
+<!-- background-color: green; --> <!-- Контейнер второй  -->
+
+}
+.content-list a{
+	color: #2b82d8;
+}
+.content-gallery{
+	display: flex;
+}
+.tabls-row{
+	background-color: #d2d8e0;
+}
+.btn-secondary:hover{
+background-color: #11A5D6;
+}
+.form-row{
+	padding-top: 70px;
+	margin-left: 60px;
+}
+.time-in{
+	color: #4286f4;
+}
+
+

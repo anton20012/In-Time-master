@@ -1,0 +1,34 @@
+.navbar-nav{
+	margin: 0px;
+	padding: 0px;
+	margin-top: 30px;
+	display: flex;
+	list-style-type: none;
+	font-size: 20px;
+	justify-content: space-between;
+	width: 900px;
+	height: 50px;
+
+}
+a{
+	text-decoration: none;
+	
+		color: #000;
+}
+.navbar{
+	background-color: #e3e6ea;
+}
+a:hover{
+	color:#11A5D6; 
+}
+
+.breadcrumb{
+	display: flex;
+	list-style-type: none;
+	font-size: 15px;
+}
+
+.breadcrumb-item{
+	margin-right: 10px;
+	color: #424344;
+}

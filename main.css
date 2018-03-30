@@ -1,0 +1,24 @@
+.logo-holder{
+	display: flex;
+	width: 220px;
+	margin-right: 600px;
+
+
+}
+.header{
+	margin-top: 30px;
+}
+.header-phone{
+	display: flex;
+	background-color: green
+	width: 700px;
+
+
+}
+.phone-icon{
+	display: flex;
+	padding-right:25px;
+}
+p{
+	font-size: 15px;
+}
